@@ -4,54 +4,118 @@
   <img src="./assets/dark.svg" alt="Kunj Viroja — DevOps, Cloud & Full-Stack Developer">
 </picture>
 
-<h1 align="center">Hi 👋, I'm Kunj Viroja</h1>
-<h3 align="center">DevOps • Cloud • Full-Stack • Vibe Coding ⚡</h3>
+<h1 align="center">Hey 👋, I'm Kunj Viroja</h1>
 
----
+<h3 align="center">
+  DevOps & Cloud Engineer · Full-Stack Developer · Automation
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=650&lines=DevOps+Engineer+in+Progress;AWS+Cloud+Enthusiast;Docker+%7C+CI%2FCD+%7C+Linux;Full+Stack+Builder;Shipping+Clean+Code+with+Good+Vibes+⚡" />
+  Building reliable systems, automating workflows, and shipping scalable applications.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/kunj-viroja-9b6713271">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:contact2kunjviroja@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/kunj_viroja.22">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## 🚀 About Me
+## 🚀 What I'm Doing
 
-- ☁️ Focused on **Cloud Computing & AWS Infrastructure**
-- ⚙️ Exploring **DevOps automation & CI/CD pipelines**
-- 🐧 Linux & Server-side enthusiast
-- 🌐 Full-Stack capable (Frontend + Backend)
-- ⚡ Believe in clean architecture + clean vibes
-
----
-
-## ☁️ Cloud & DevOps Stack
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+- ☁️ Building and deploying applications on **AWS & GCP**
+- ⚙️ Automating development and deployment workflows with **GitHub Actions**
+- 🐳 Containerizing applications with **Docker**
+- 🌐 Building modern full-stack applications with **React, Next.js & Node.js**
+- 🔧 Growing my skills in **DevOps, Cloud & Platform Engineering**
+- 📦 Building, learning, automating, shipping, and improving — one project at a time
 
 ---
 
-## 🌐 Full-Stack Toolkit
+## 🛠️ Tech Stack
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+### 💻 Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,java,js,python" />
+</p>
+
+### 🎨 Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,nextjs" />
+</p>
+
+### ⚙️ Backend & Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,supabase" />
+</p>
+
+### ☁️ Cloud & DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,linux,nginx,githubactions" />
+</p>
+
+### 🔧 Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
 ---
+
+## 🎓 Education
+
+**B.Tech in Information Technology**  
+CHARUSAT University · Changa, Gujarat, India
+
+📍 Junagadh, Gujarat
+
+---
+
+---
+
+---
+
+## 🚀 Featured Project
+
+### 🏢 KCMP Associates — Corporate Website
+
+A modern corporate website developed for **KCMP Associates**, designed to present the firm's services, management, insights, and business information through a professional and responsive digital experience.
+
+**Tech Stack:** Next.js · TypeScript · Tailwind CSS · shadcn/ui · Framer Motion · React Hook Form · Zod
+
+**Highlights:**
+- 🎨 Modern, responsive corporate UI
+- 💼 Services, About & Management sections
+- 📝 Insights and content presentation
+- 📩 Contact form with validation
+- ✨ Smooth animations and interactive UI
+- 📱 Responsive experience across devices
+
+<p>
+  <a href="https://www.kcmpassociates.com/">
+    <img src="https://img.shields.io/badge/Live%20Website-Visit-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KunjViroja&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KunjViroja&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KunjViroja&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KunjViroja&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -59,7 +123,7 @@
 ## 📈 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KunjViroja&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KunjViroja&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -67,13 +131,19 @@
 ## 🌍 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/kunj-viroja-9b6713271/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/kunj-viroja-9b6713271">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:contact2kunjviroja@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/kunj_viroja.22">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  ⚡ Automating infrastructure by day. Shipping full-stack builds by night.
+  ⚡ Building systems. Automating workflows. Shipping better.
 </p>
