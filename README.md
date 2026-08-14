@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/light.svg">
+  <img src="./assets/dark.svg" alt="Kunj Viroja — DevOps, Cloud & Full-Stack Developer">
+</picture>
+
 <h1 align="center">Hi 👋, I'm Kunj Viroja</h1>
 <h3 align="center">DevOps • Cloud • Full-Stack • Vibe Coding ⚡</h3>
 
