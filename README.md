@@ -108,16 +108,30 @@ A modern corporate website developed for **KCMP Associates**, designed to presen
   </a>
 </p>
 
-## 📊 GitHub Stats
+---
+
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KunjViroja&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=KunjViroja&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+    alt="Kunj Viroja GitHub Stats"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KunjViroja&theme=tokyonight&hide_border=true" />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=KunjViroja&theme=tokyonight&hide_border=true"
+    alt="Kunj Viroja GitHub Streak"
+  />
 </p>
 
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=KunjViroja&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Kunj Viroja Top Languages"
+  />
+</p>
 ---
 
 ## 📈 Top Languages
